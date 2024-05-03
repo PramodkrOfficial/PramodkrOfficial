@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PramodkrOfficial
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...Blockchain technology & Android development
+- 🌱 I’m currently learning ...web technology & Android development
 - 💞️ I’m looking to collaborate on ...Blockchain based projects
-- 📫 How to reach me ...pramodkumarrupauliya@gmail.com, https://www.linkedin.com/in/pramod-kumar-003067183?trk=contact-info
+- 📫 How to reach me ...pramodkumarrupauliya@gmail.com, https://www.linkedin.com/in/pramodkrdev
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
